@@ -6,37 +6,49 @@
 .navbar{
 
 border: none;
-background-color: black;
-color: #61122F;
+background-color: #122F61;
+color: black;
 }
 body{
-	background-color: #61122F;
-	color: white;
+	background-color: #F2E9EA;
+	color: whitesmoke;
 }
 .glyphicon{
 	font-size: 30px;
-	color:#61122F; 
+	color:whitesmoke; 
 }
 
 .center{
 	width: 90%;
-	background-color: grey;
+	background-color:#122F61;
+	color: black;
+	border-color: gray;
 
 }
 .container
 {
-	background-color: grey;
+	background-color: #122F61;
 }
 .text-center{
 	font-size: 30px;
+	color: black;
+	border-color: gray;
 }
+
 
 h2{
 	text-align: center;
 }
 #myNavbar ul li a {
-	color: #61122F;
+	text-align: center;
+	color: whitesmoke;
+}
+#myNavbar a span {
+	font-size: 2em;
 }
 .navbar-brand{
-font-size: 30px;	
+font-size: 30px;
+color: black;
 }
+
+
